@@ -11,7 +11,7 @@ URL = "http://127.0.0.1/test_axotec/prueba.php" #localhost
 
 URL = "http://192.168.88.190/test_axotec/prueba.php" #ACME0
 
-URL = "http://137.184.105.105/test/index.html" #VPN Del laptop
+URL = "http://10.0.0.99/test_axotec/prueba.php" #VPN Del laptop
 
 
 nData = 1000
