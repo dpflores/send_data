@@ -36,6 +36,6 @@ while True:
     
     print(cuenta, accelx_data, accelx_data)
 
-    time.sleep(0.1)
+    time.sleep(0.5)
 
     #sending each 0.1 seconds
