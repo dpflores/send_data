@@ -15,7 +15,7 @@ URL = "http://10.0.0.99/test_axotec/prueba.php" #VPN Del laptop
 
 URL = "http://192.168.88.187/test_axotec/prueba.php" #server laptop
 
-URL = "http://10.0.0.48/test_axotec/prueba.php" # vpn server laptop
+URL = "http://10.0.0.46/test_axotec/prueba.php" # vpn server laptop
 
 
 
