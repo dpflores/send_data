@@ -13,7 +13,10 @@ URL = "http://192.168.88.190/test_axotec/prueba.php" #ACME0
 
 URL = "http://10.0.0.99/test_axotec/prueba.php" #VPN Del laptop
 
-URL = "http://192.168.88.187/test_axotec/prueba.php" #VPN Del laptop
+URL = "http://192.168.88.187/test_axotec/prueba.php" #server laptop
+
+URL = "http://10.0.0.46/test_axotec/prueba.php" # vpn server laptop
+
 
 
 nData = 1000
@@ -40,4 +43,4 @@ while True:
 
     time.sleep(0.5)
 
-    #sending each 0.1 seconds
+    #sending each 0.5 seconds
